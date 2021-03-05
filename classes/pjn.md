@@ -8,7 +8,7 @@ layout: single
 *agnieszka.lawrynowicz@put.poznan.pl*
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=242080)
 
-## Labolatoria
+## Laboratoria
 ### [Dawid Wiśniewski]()
 *dawid.wisniewski@put.poznan.pl*
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=242080)

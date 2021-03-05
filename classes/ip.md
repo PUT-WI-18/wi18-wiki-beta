@@ -8,7 +8,7 @@ layout: single
 *izabela.szczech@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/88028220570?pwd=NC9wN01IUG90cmRqWXFUYldhbkQ5UT09)
 
-## Labolatoria
+## Laboratoria
 #### Instrukcja łączenia się na BC dzięki RD po VPN PP
 - VPN: 
   - [wszystkie sposoby](https://instrukcje.put.poznan.pl/category/vpn/)

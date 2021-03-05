@@ -7,7 +7,7 @@ layout: single
 #### dr hab. inż. [Rafał Różycki](http://www.cs.put.poznan.pl/rrozycki/dydaktyka.html)
 *rafal.rozycki@cs.put.poznan.pl*
 
-## Labolatoria
+## Laboratoria
 ### [Rafał Różycki](http://www.cs.put.poznan.pl/rrozycki/dydaktyka.html)
 *rafal.rozycki@cs.put.poznan.pl*
 - [BBB](https://emeeting.put.poznan.pl/eMeeting/raf-2qc-n73)

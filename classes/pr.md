@@ -8,7 +8,7 @@ layout: single
 *rafal.walkowiak@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/82374867320?pwd=Nm1rR20yeXlYUEtPc0Y5VjRRSXJPQT09#success) 
 
-## Labolatoria
+## Laboratoria
 [Rafał Walkowiak](http://www.cs.put.poznan.pl/rwalkowiak/)
 *rafal.walkowiak@put.poznan.pl*
 - BBB linki dla każdej grupy:

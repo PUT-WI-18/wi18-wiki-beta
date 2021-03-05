@@ -14,7 +14,7 @@ layout: single
 - [eKursy](https://ekursy.put.poznan.pl/course/view.php?id=3617)
 - [Zoom](https://us02web.zoom.us/j/88300032095?pwd=RmFVYndUVzRrcGhDTGRCYTNrbnlCdz09#success)
 
-## Labolatoria
+## Laboratoria
 ### [Iwo Błądek](https://www.cs.put.poznan.pl/ibladek/wiki/pmwiki.php?n=Main.InfIwM)
 *iwo.bladek@put.poznan.pl*
 - [ZOOM](https://zoom.us/j/98630157061?pwd=Z3B0MURUQ2dzSFpybGRHWnNrZjQ0dz09)
