@@ -11,7 +11,7 @@ layout: single
 *irmina.maslowska@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/83191756865?pwd=VjdXSTd4ZHVPdHkxUG13ZVpFbFVMQT09) Passcode: 201933
 
-## Labolatoria
+## Laboratoria
 ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/)
 *michal.tomczyk@put.poznan.pl*
 - ZOOM: Meeting ID=987 0038 8360; Hasło=sYN8e0

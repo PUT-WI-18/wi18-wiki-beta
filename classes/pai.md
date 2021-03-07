@@ -7,7 +7,7 @@ layout: single
 #### dr hab. inż. [Maciej Zakrzewicz](http://www.zakrzewicz.pl/lectures.php) 
 *Maciej.Zakrzewicz@cs.put.poznan.pl*
 
-## Labolatoria
+## Laboratoria
 ### [Maciej Zakrzewicz](http://www.zakrzewicz.pl/lectures.php) 
 *Maciej.Zakrzewicz@cs.put.poznan.pl*
 - [Zoom](https://us02web.zoom.us/j/82358416655?pwd=d0JuQUtvb2EyQm82bTNwN2pYalNJQT09)
