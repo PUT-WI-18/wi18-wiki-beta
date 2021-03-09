@@ -13,11 +13,11 @@ layout: single
   - Passcode: 974622
 
 ## Laboratoria
-### [Maciej Zakrzewicz](http://www.zakrzewicz.pl/lectures.php) 
+### dr hab. inż. [Maciej Zakrzewicz](http://www.zakrzewicz.pl/lectures.php) 
 *Maciej.Zakrzewicz@cs.put.poznan.pl*
 - [Zoom](https://us02web.zoom.us/j/82358416655?pwd=d0JuQUtvb2EyQm82bTNwN2pYalNJQT09)
 
-### [Hold my beer](http://www.cs.put.poznan.pl/mpiernik/students.html)
+### dr hab. inż. [Hold My Beer](http://www.cs.put.poznan.pl/mpiernik/students.html)
 *maciej.piernik@cs.put.poznan.pl*
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=784878)
 
