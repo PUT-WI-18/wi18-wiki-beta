@@ -7,6 +7,7 @@ layout: single
 #### dr inż. [Rafał Walkowia](http://www.cs.put.poznan.pl/rwalkowiak/)[k](https://www.youtube.com/watch?v=k1-TrAvp_xs)
 *rafal.walkowiak@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/82374867320?pwd=Nm1rR20yeXlYUEtPc0Y5VjRRSXJPQT09#success) 
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdHo1pIHc86AbyR1p43cNB4K)
 
 ## Laboratoria
 [Rafał Walkowiak](http://www.cs.put.poznan.pl/rwalkowiak/)
