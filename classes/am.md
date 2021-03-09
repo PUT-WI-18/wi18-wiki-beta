@@ -6,6 +6,7 @@ layout: single
 ## Wykłady
 #### dr hab. inż. [Rafał Różycki](http://www.cs.put.poznan.pl/rrozycki/dydaktyka.html)
 *rafal.rozycki@cs.put.poznan.pl*
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdEfkrwgqiNamuMWtJqVVlxE)
 
 ## Laboratoria
 ### [Rafał Różycki](http://www.cs.put.poznan.pl/rrozycki/dydaktyka.html)
@@ -18,4 +19,5 @@ layout: single
 
 ### [Tomasz Lemański]()
 
-
+### [M.Mikka]()
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdEfkrwgqiNamuMWtJqVVlxE)
