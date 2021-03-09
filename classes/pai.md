@@ -8,7 +8,7 @@ layout: single
 *Maciej.Zakrzewicz@cs.put.poznan.pl*
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdGApmG0hCNOyYT2bnNZRD4H)
 - Zoom
-  - us02web.zoom.us/j/82204169614
+  - [link](http://us02web.zoom.us/j/82204169614)
   - Meeting ID: 822 0416 9614
   - Passcode: 974622
 
