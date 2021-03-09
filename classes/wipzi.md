@@ -15,7 +15,10 @@ layout: single
 ## Laboratoria
 ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/)
 *michal.tomczyk@put.poznan.pl*
-- ZOOM: Meeting ID=987 0038 8360; Hasło=sYN8e0
+- ZOOM
+  - Meeting ID: 987 0038 8360
+  -  Hasło: sYN8e0
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdEnN5cTyTsb3oop6mhlYMjI)  
 
 ### [Anna Labijak-Kowalska](http://www.cs.put.poznan.pl/alabijak/ir.html) 
 *anna.labijak@put.poznan.pl*
