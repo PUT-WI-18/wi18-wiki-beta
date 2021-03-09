@@ -10,6 +10,7 @@ layout: single
 #### dr inż. [Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wipi/)
 *irmina.maslowska@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/83191756865?pwd=VjdXSTd4ZHVPdHkxUG13ZVpFbFVMQT09) Passcode: 201933
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdHA_hPfcC0XqhaTJZLxs0H0)
 
 ## Laboratoria
 ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/)
