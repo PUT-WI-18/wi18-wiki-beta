@@ -10,5 +10,5 @@ layout: single
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdGYyj88qhdvuPSGqhAIVanW)
 
 ## Laboratoria
-### [Bartłomiej Prędki](http://zajecia.blogspot.com/)
+### dr inż. [I'm Prędki](http://zajecia.blogspot.com/)
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=242028)
