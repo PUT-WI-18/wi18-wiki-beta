@@ -7,6 +7,7 @@ layout: single
 #### dr inż. [Bartłomiej Prędki](http://zajecia.blogspot.com/)
 *Bartlomiej.Predki@cs.put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/87401268666?pwd=R0dEY3JxaElYMXdBc1Yrd1hwR0t3dz09#success)
+- [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdGYyj88qhdvuPSGqhAIVanW)
 
 ## Laboratoria
 ### [Bartłomiej Prędki](http://zajecia.blogspot.com/)
