@@ -11,6 +11,6 @@ layout: single
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdFTXaPoX9bOoqZ6Wd9WXhiV)
 
 ## Laboratoria
-### [Maciej Piernik](http://www.cs.put.poznan.pl/mpiernik/)
+### dr inż. [Maciej Piernik](http://www.cs.put.poznan.pl/mpiernik/)
 *maciej.piernik@cs.put.poznan.pl*
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=241950)
