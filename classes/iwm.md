@@ -16,14 +16,14 @@ layout: single
 - [Zoom](https://us02web.zoom.us/j/88300032095?pwd=RmFVYndUVzRrcGhDTGRCYTNrbnlCdz09#success)
 
 ## Laboratoria
-### [Iwo Błądek](https://www.cs.put.poznan.pl/ibladek/wiki/pmwiki.php?n=Main.InfIwM)
+### mgr. inż. [Iwo Błądek](https://www.cs.put.poznan.pl/ibladek/wiki/pmwiki.php?n=Main.InfIwM)
 *iwo.bladek@put.poznan.pl*
 - [ZOOM](https://zoom.us/j/98630157061?pwd=Z3B0MURUQ2dzSFpybGRHWnNrZjQ0dz09)
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdFwbrk-QmT7I7ICNI2bvJ-j)
 
-### [Szymon "Biały" Wilk](http://www.cs.put.poznan.pl/swilk/pmwiki/)
+### dr hab. [Szymon "Biały" Wilk](http://www.cs.put.poznan.pl/swilk/pmwiki/)
 *szymon.wilk@put.poznan.pl*
 - [Zoom](https://us02web.zoom.us/j/85489255639?pwd=NXN1TG9zL2ZYMUlmN2x4NDZ5SnkzZz09#success)
 
-### Magdalena Martyn <3
+### mgr. Magdalena Martyn <3
 *magdalena.martyn@put.poznan.pl*
