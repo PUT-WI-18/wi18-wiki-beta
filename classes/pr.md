@@ -10,7 +10,7 @@ layout: single
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdHo1pIHc86AbyR1p43cNB4K)
 
 ## Laboratoria
-[Rafał Walkowiak](http://www.cs.put.poznan.pl/rwalkowiak/)
+#### dr inż. [Rafał Walkowiak](http://www.cs.put.poznan.pl/rwalkowiak/)
 *rafal.walkowiak@put.poznan.pl*
 - BBB linki dla każdej grupy:
   - [L1](https://www.youtube.com/watch?v=C-_JKjsXKao)
