@@ -10,6 +10,6 @@ layout: single
 - [YouTube](https://www.youtube.com/playlist?list=PLMkIxFYizNdGMeqa79DVLzaDuR_k0Sa0B)
 
 ## Laboratoria
-### [Dawid Wiśniewski]()
+### mgr. inż. [Dawid Wiśniewski]()
 *dawid.wisniewski@put.poznan.pl*
 - [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=242080)
