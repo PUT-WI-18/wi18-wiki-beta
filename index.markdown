@@ -6,5 +6,7 @@ header:
   caption: "Photo credit: [**Microsoft**](https://news.microsoft.com/pl-pl/features/naukowcy-z-politechniki-poznanskiej-opisuja-struktury-atomow-z-kosmosu-dzieki-mocy-obliczeniowej-chmury-microsoftmowi/)"
   actions:
     - label: "Plan"
-      url: "/schedule"
+      url: "/schedule/main.html"
+    - label: "Zajęcia"
+      url: "/classes/main.html"
 ---
