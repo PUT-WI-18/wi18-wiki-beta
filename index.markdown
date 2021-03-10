@@ -1,9 +1,9 @@
 ---
 layout: single
 header:
-  overlay_image: /images/plan-p1.png
+  overlay_image: /images/banner.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Microsoft**](https://news.microsoft.com/pl-pl/features/naukowcy-z-politechniki-poznanskiej-opisuja-struktury-atomow-z-kosmosu-dzieki-mocy-obliczeniowej-chmury-microsoftmowi/)"
   actions:
     - label: "Download"
       url: "https://github.com"
