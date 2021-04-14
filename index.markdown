@@ -8,5 +8,5 @@ header:
     - label: "Plan"
       url: "/schedule/main.html"
     - label: "Zajęcia"
-      url: "/classes/main.html"
+      url: "/agenda/main.html"
 ---
