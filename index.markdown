@@ -9,4 +9,6 @@ header:
       url: "/schedule/main.html"
     - label: "Zajęcia"
       url: "/agenda/main.html"
+    - label: "Tygodnie"
+      url: "/weeks/main.html"
 ---
