@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Tygodnie
 classes: wide
 ---
 # Plan tygodni
